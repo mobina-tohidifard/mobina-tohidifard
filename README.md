@@ -9,38 +9,46 @@ I have a background in Computer Science and I'm currently focused on building st
 
 ## 👩‍💻 About Me
 - 🎓 Bachelor’s degree in Computer Science  
-- 🌱 Currently learning **JavaScript**
-- 💻 Interested in Front-End Development
-- 🎯 Goal: Become a Front-End Developer and build real-world projects
-- 🚀 Learning step by step, consistently
+- 🌱 Currently learning **JavaScript**  
+- 💻 Passionate about **Front-End Development**  
+- 🎯 Goal: Become a skilled Front-End Developer and build real-world projects  
+- 🚀 Committed to learning step by step with consistency  
 
 ---
 
 ## 🛠 Skills
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js" />
 </p>
 
 - HTML5  
-- CSS3  
+- CSS3 (Flexbox & Grid)  
 - Tailwind CSS  
-- JavaScript (Learning)
+- JavaScript (Currently learning)  
 
 ---
 
 ## 📂 Projects
-- One front-end project built using **HTML, CSS, and Tailwind CSS**  
-  (Focused on layout, structure, and responsive design)
+- **Front-End Project** using HTML, CSS, and Tailwind CSS  
+  Focused on layout, structure, and responsive design  
 
 ---
 
 ## 📚 Currently Working On
 - JavaScript fundamentals  
 - DOM manipulation  
-- Building small practice projects  
+- Building small practice projects to strengthen my skills  
+
+---
+
+## ⚡ GitHub Stats 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mobina-tohidifard&show_icons=true&theme=tokyonight" /> &nbsp;  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobina-tohidifard&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🌱 Mindset
 I believe consistency and practice matter more than speed.  
-I’m focused on improving every day and building a solid foundation.
+Focused on improving every day and building a solid foundation in front-end development.
